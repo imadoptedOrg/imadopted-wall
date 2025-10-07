@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Alex",
+    "birthName": "Aleksei",
+    "from": "Arkhangelsk, Russia",
+    "now": "Auckland, New Zealand",
+    "message": "Adoption gave me the chance to find family in two worlds. National Adoption Month reminds me of connection and belonging.",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2jIWpjRfVkXZEDqTFQMvyxUhPM4UO_ZLUZg&s",
+    "lat": 64.54,
+    "lng": 40.52
+  },
+  {
+    "name": "Tracy",
+    "birthName": "Thao",
+    "from": "Ho Chi Minh City, Vietnam",
+    "now": "Melbourne, Australia",
+    "message": "Every year I light a candle for my birth family and another for the one who raised me. Adoption is love in both directions.",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtcG1RRP3Q5ThQrgtXN2fpU2RGEkfIfUnxA&s",
+    "lat": 10.82,
+    "lng": 106.63
+  },
+  {
+    "name": "Daniela",
+    "birthName": "Dany",
+    "from": "Bogotá, Colombia",
+    "now": "Toronto, Canada",
+    "message": "Adoption gave me new roots and new wings. This month is about honoring both sides of my story.",
+    "photo": "https://lp-cms-production.imgix.net/2023-01/iStock-1182337590-RFC.jpg?sharp=10&vib=20&w=1200&w=600&h=400",
+    "lat": 4.71,
+    "lng": -74.07
+  },
+  {
+    "name": "Oksana",
+    "birthName": "Oksana Petrova",
+    "from": "Kyiv, Ukraine",
+    "now": "London, United Kingdom",
+    "message": "National Adoption Month reminds me that love crosses oceans and names. We all carry our stories differently, but proudly.",
+    "photo": "https://cdn.britannica.com/18/194818-050-E7A7A993/view-Kiev-Ukraine.jpg",
+    "lat": 50.45,
+    "lng": 30.52
+  },
+  {
+    "name": "James",
+    "birthName": "Jamie",
+    "from": "Swansea, Wales",
+    "now": "Cardiff, Wales",
+    "message": "Adoption is a journey, not a single event. Every day I keep learning who I am, and where I came from.",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyKeo1shafFAS7-f_DDXVCy_mfuFgpSBTQDQ&s",
+    "lat": 51.62,
+    "lng": -3.94
+  }
+]
